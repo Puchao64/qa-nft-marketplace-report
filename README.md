@@ -11,7 +11,7 @@ Date: May 2025
 
 **Action:** Opened homepage at opensea.io  
 **Result:** Homepage loads correctly, popular collections block is displayed, no visible issues.  
-🖼 `screenshots/homepage.png`
+🖼 ![](./screenshots/homepage.png)
 
 ---
 
@@ -19,7 +19,7 @@ Date: May 2025
 
 **Action:** Searched for "CryptoPunks" in the search bar  
 **Result:** Search results display matching collections and items  
-🖼 `screenshots/search-bar.png`
+🖼 ![](./screenshots/search-bar.png)
 
 ---
 
@@ -27,7 +27,7 @@ Date: May 2025
 
 **Action:** Applied filter by category (e.g., Gaming)  
 **Result:** Filtered collections loaded correctly  
-🖼 `screenshots/filters.png`
+🖼 ![](./screenshots/filters.png)
 
 ---
 
@@ -35,7 +35,7 @@ Date: May 2025
 
 **Action:** Clicked on a collection (e.g., TGT VIP CARD)  
 **Result:** Collection page loads with title, logo, floor price, volume, owners, and other stats  
-🖼 `screenshots/collection-page.png`
+🖼 ![](./screenshots/collection-page.png)
 
 ---
 
@@ -43,7 +43,7 @@ Date: May 2025
 
 **Action:** Clicked on an individual NFT inside the collection  
 **Result:** Item page displays image, owner, price, Buy button, and relevant metadata  
-🖼 `screenshots/item-details.png`
+🖼 ![](./screenshots/item-details.png)
 
 ---
 
@@ -51,7 +51,7 @@ Date: May 2025
 
 **Action:** Clicked “Connect” in the top right corner  
 **Result:** Wallet modal opened with multiple connection options (MetaMask, Coinbase, etc.)  
-🖼 `screenshots/wallet-connect.png`
+🖼 ![](./screenshots/wallet-connect.png)
 
 ---
 
